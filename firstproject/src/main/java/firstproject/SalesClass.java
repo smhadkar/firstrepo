@@ -7,10 +7,11 @@ public class SalesClass {
 			int[] arr = { 1, 2 , 3, 4};
 			for(int num:arr)
 				System.out.println(num);
-			
-		public void print() {
-			display();
 		}
+			
+		public void print(){
+			display();
+		
 
 	}
 
