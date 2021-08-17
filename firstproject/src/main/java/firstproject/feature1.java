@@ -1,10 +1,13 @@
 package firstproject;
 
 public class feature1 {
-	public static void main(String args[]) {
+	public void show() {
 	      
-	      System.out.print("feature1");
-	     
+	      System.out.print("feature1"); 
 	   }
+	
+	public void display() {
+		show();
+	}
 
 }
