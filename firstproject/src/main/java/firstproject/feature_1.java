@@ -9,4 +9,8 @@ public class feature_1 {
 	public void display() {
 		
 	}
+	
+	public void show() {
+		
+	}
 }
