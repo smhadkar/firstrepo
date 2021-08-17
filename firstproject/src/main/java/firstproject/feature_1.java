@@ -6,4 +6,7 @@ public class feature_1 {
 	      System.out.print("Login user");
 	     
 	   }
+	public void display() {
+		
+	}
 }
